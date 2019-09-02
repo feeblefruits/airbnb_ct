@@ -51,4 +51,4 @@ The Atlantic Seaboard are the most expensive along with the inner City. Specific
 
 Large price correlations include the number of bathrooms, accommodates, square feet and bedrooms.
 
-![alt text](https://cdn-images-1.medium.com/max/2600/1*umGJozQ0DWFLz2LUo5vBWw.jpeg
+![alt text](https://cdn-images-1.medium.com/max/2600/1*umGJozQ0DWFLz2LUo5vBWw.jpeg)
