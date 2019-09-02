@@ -52,3 +52,5 @@ The Atlantic Seaboard are the most expensive along with the inner City. Specific
 Large price correlations include the number of bathrooms, accommodates, square feet and bedrooms.
 
 ![alt text](https://cdn-images-1.medium.com/max/2600/1*umGJozQ0DWFLz2LUo5vBWw.jpeg)
+
+A Medium blog post of the above code which dives into the process of the analysis can be found here: https://medium.com/@plan__b/this-airbnb-data-will-make-you-think-twice-about-cape-town-accommodation-costs-7d31e90178eb
