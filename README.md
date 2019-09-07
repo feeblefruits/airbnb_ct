@@ -16,6 +16,8 @@ import glob
 import numpy as np
 import seaborn as sns
 import matplotlib.pyplot as plt
+import missingno as msno
+
 ```
 
 Pandas and Geopandas are used to manipulate and analysis the datasets, along with Numpy which is standard.
@@ -42,6 +44,9 @@ The files in the repository includes the following:
 - reviews.csv.gz - reviews of each listing (this file has mostly been excluded from the analysis)
 - neighbourhoods.geojson - the locations of each ward in Cape Town
 - price_df.csv - the prices of the listings that have been parsed to show each one's mean, min and max. I'm including this here as the code takes a couple of minutes to generate the df.
+
+Using the missing_no library, the form of the listings.csv.gz dataset is as follows - numerous missing values and some columns are entirely blank. These are dealt with in the notebook in this repo.
+![alt text](missing_no_airbnb_ct_data.png)
 
 ## Overall findings
 
