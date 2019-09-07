@@ -1,6 +1,9 @@
 # Airbnb CT analysis overview
 
-This project is an exploratory data analysis of Airbnb dataset of Cape Town listings for Udacity's Write A "Data Science Blog Post" project.
+This project is an exploratory data analysis of Airbnb dataset of Cape Town listings for Udacity's Write A "Data Science Blog Post" project. The CRISP-DM process is followed for this data exploration and analysis. These steps can be followed in the notebook accordingly.
+
+More info on this can be found here:
+https://paginas.fe.up.pt/~ec/files_0405/slides/02%20CRISP.pdf
 
 Data used can be found on the Inside Airbnb site: http://insideairbnb.com/get-the-data.html
 
